@@ -1,0 +1,17 @@
+body {
+  font-family: 'Press start 2P', cursive;
+  background-color: #1e1e2e;
+  color: #e0e0e0;
+  margin: 0;
+}
+
+h1, h2, h3 {
+  color: #ff00ff;
+  text-shadow: 2px 2px 8px #ff00ff;
+}
+
+button:hover {
+  background-color: #ff00ff;
+  color: #fff;
+}
+
